@@ -79,3 +79,5 @@ Add authentication with token
 Convert to pip-installable CLI
 
 You're building something solid here. Keep going 🚀
+
+project idea taken from : https://roadmap.sh/projects/github-user-activity
